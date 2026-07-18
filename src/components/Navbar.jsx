@@ -2,7 +2,7 @@
 import {useState} from "react";
 import Image from "next/image";
 import { FiMenu, FiX } from "react-icons/fi";
-import ThemeToggle from "./ThemeToggle";
+
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
