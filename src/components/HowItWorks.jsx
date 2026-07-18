@@ -267,7 +267,7 @@ export default function HowItWorks() {
 </div>
 
 
-{/* Desktop timeline ends */}
+
 
 {/* Mobile & Tablet Timeline */}
 <div className="mt-16 space-y-14 lg:hidden">
